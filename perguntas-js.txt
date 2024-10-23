@@ -1,0 +1,33 @@
+Exercício JavaScript
+
+1)Escreva um programa que peça dois números e exiba a soma deles. 
+2)Escreva um programa que peça dois números e exiba a subtração do primeiro pelo segundo.
+3)Escreva um programa que peça dois números e exiba a multiplicação deles.
+4)Escreva um programa que peça dois números e exiba a divisão do primeiro pelo segundo.
+5)Escreva um programa que peça dois números e exiba o resto da divisão do primeiro pelo segundo.
+6)Escreva um programa que incremente o valor de uma variável em 1 e exiba o resultado.
+7)Escreva um programa que decremente o valor de uma variável em 1 e exiba o resultado.
+8)Atribua o valor de uma variável a outra.
+9)Some 10 a uma variável existente usando o operador +=.
+10)Subtraia 5 de uma variável existente usando o operador -=.
+11)Multiplique o valor de uma variável por 4 usando o operador *=.
+12)Divida o valor de uma variável por 2 usando o operador /=.
+13)Obtenha o resto da divisão de uma variável por 3 usando o operador %=.
+14)Escreva um programa que verifique se um número é positivo ou negativo.
+15)Escreva um programa que verifique se um número é par ou ímpar.
+16)Escreva um programa que verifique qual dos dois números é maior.
+17)Escreva um programa que verifique se uma pessoa tem mais de 18 anos.
+18)Escreva um programa que verifique se um número está no intervalo entre 0 e 100.
+19)Escreva um programa que verifique se uma letra é uma vogal ou consoante.
+20)Escreva um programa que verifique qual dos três números é o maior.
+21)Escreva um programa que verifique se um ano é bissexto.
+22)Escreva um programa que verifique se dois números são positivos.
+23)Escreva um programa que verifique se pelo menos um dos dois números é negativo.
+24)Escreva um programa que verifique se um número é par e positivo.
+25)Escreva um programa que verifique se um número não é múltiplo de 5.
+26)Escreva um programa que verifique se um número está fora do intervalo de 1 a 10.
+27)Escreva um programa que verifique se dois números são pares.
+28)Escreva um programa que verifique se a soma de dois números é maior que 100.
+29)Escreva um programa que verifique se dois números são iguais ou diferentes.
+30)Escreva um programa que verifique se uma string não está vazia.
+
